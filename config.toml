@@ -28,12 +28,12 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
-  description = "Learn more about my work"
+  orgName = "Marianne Elmquist"
+  orgLocal = ""
+  description = "A modern, beautiful, and easily configurable blog theme for Hugo"
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["projects", "publications", "blog"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -110,22 +110,27 @@ enableEmoji = true
     name = "Blog"
     title = "Random Blog Postings"
     url = "/blog/"
-    weight = 2
+    weight = 4
   [[menu.header]]
     name = "Projects"
     title = "Current and past projects"
     url = "/project/"
-    weight = 3
+    weight = 2
   [[menu.header]]
     name = "Publications"
     title = "Publications"
     url = "/publications/"
-    weight = 4
+    weight = 3
   [[menu.header]]
     name = "CV"
     title = "CV"
     url = "/cv/"
     weight = 5
+  [[menu.header]]
+    name = "Resources"
+    title = "Language acquistion resources"
+    url = "/resources/"
+    weight = 6
     
   # Configure footer  
   [[menu.footer]]
