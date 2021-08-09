@@ -1,4 +1,4 @@
-baseURL = "http://www.marianne-elmquist.com/"
+baseURL = "marianne-elmquist.com"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Marianne Elmquist"
