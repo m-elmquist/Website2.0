@@ -13,7 +13,7 @@ excerpt: Preliminary evaluation of LENA Start™
 featured: true
 layout: single
 links:
-- icon: door-open
+- icon: file-pdf
   icon_pack: fas
   name: full-text
   url: /files/Elmquistetal2020.pdf/

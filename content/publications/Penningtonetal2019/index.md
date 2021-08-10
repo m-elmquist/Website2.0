@@ -12,7 +12,7 @@ excerpt: A systematic review of the Maintenance and generalization in functional
 featured: true
 layout: single
 links:
-- icon: door-open
+- icon: file-pdf
   icon_pack: fas
   name: full-text
   url: /files/Penningtonetal2019.pdf/

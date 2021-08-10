@@ -9,11 +9,11 @@ date: "2019-10-01T00:00:00Z"
 draft: false
 #event: rstudio::global(2021)
 #event_url: https://global.rstudio.com
-excerpt: Research considerations for the design and development of assessment measures to support DBDM for educators in early childhood education.
+excerpt: Research considerations for the design and development of early literacy assessment measures to support DBDM for educators in early childhood education.
 featured: true
 layout: single
 links:
-- icon: door-open
+- icon: file-pdf
   icon_pack: fas
   name: full-text
   url: https://www.frontiersin.org/articles/10.3389/feduc.2019.00106/full
@@ -23,7 +23,7 @@ links:
  # url: https://github.com/apreshill/bakeoff
 #location: Sydney, Australia
 show_post_time: false
-subtitle: Research considerations for the design and development of assessment measures to support DBDM for educators in early childhood education.
+subtitle: Research considerations for the design and development of early literacy assessment measures to support DBDM for educators in early childhood education.
 title: 'Meeting in the Middle: Future Directions for Researchers to Support Educators’ Assessment Literacy and Data-Based Decision Making'
 ---
 # Abstract

@@ -1,4 +1,4 @@
-baseURL = "marianne-elmquist-website.netlify.app"
+baseURL = "marianne-elmquist.com"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Marianne Elmquist"
@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Personal webpage for Marianne Elmquist"
   favicon = "/img/cabin.png"
   logo = "/img/cabin.png"
-  mainSections = ["projects", "publications", "blog"]
+  mainSections = ["project", "publications", "blog"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -71,7 +71,7 @@ enableEmoji = true
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
-    repo_name = "apreshill/apero"
+    repo_name = "m-elmquist/Website2.0"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
     label = "comments :crystal_ball:"
@@ -137,7 +137,7 @@ enableEmoji = true
     weight = 5
   [[menu.header]]
     name = "Resources"
-    title = "Language acquistion resources"
+    title = "Language development resources"
     url = "/collection/"
     weight = 6
     

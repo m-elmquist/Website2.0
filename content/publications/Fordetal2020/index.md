@@ -12,7 +12,7 @@ excerpt: Conceptual paper describing an ecobehavioral model for language develop
 featured: true
 layout: single
 links:
-- icon: door-open
+- icon: file-pdf
   icon_pack: fas
   name: full-text
   url: /files/Fordetal2018.pdf/

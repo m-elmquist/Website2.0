@@ -2,6 +2,9 @@
 author: Stephanie Benson, Adele Dimian, Marianne Elmquist, Jessica Simacek, Jennifer McComas, Frank Symons
 categories:
 - telehealth
+- intervention
+- AAC
+- parent-implemented
 date: "2017-12-05T00:00:00Z"
 #date_end: "2021-01-13"
 draft: false
@@ -11,7 +14,7 @@ excerpt: A study evaluating the feasibility of conducting parent-implemented FA 
 featured: true
 layout: single
 links:
-- icon: door-open
+- icon: file-pdf
   icon_pack: fas
   name: full-text
   url: /files/Bensonetal2018.pdf/

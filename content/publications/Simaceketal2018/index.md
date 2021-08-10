@@ -13,7 +13,7 @@ excerpt: A tutorial describing conditional use considerations for practice and r
 featured: true
 layout: single
 links:
-- icon: door-open
+- icon: file-pdf
   icon_pack: fas
   name: full-text
   url: /files/Simaceketal2017.pdf/
