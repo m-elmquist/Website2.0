@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musings on Marianne Elmquist</title>
+    <link>marianne-elmquist.com/blog/</link>
+    <description>Recent content in Musings on Marianne Elmquist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="marianne-elmquist.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Other blogs I follow</title>
+      <link>marianne-elmquist.com/blog/blogs-i-follow/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>marianne-elmquist.com/blog/blogs-i-follow/</guid>
+      <description> Andrew Zieffler&amp;rsquo;s Blog &amp;ndash; https://www.datadreaming.org/ Craig Van Pay&amp;rsquo;s Blog &amp;ndash; https://cvanpay.github.io/ Britta Bresina &amp;ndash; http://www.brittacookbresina.education/  </description>
+    </item>
+    
+  </channel>
+</rss>
